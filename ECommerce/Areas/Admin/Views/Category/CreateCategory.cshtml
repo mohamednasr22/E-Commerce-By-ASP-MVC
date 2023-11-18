@@ -1,0 +1,22 @@
+﻿@using ECommerce.Models;
+@Model Category
+<div class="col-lg-6">
+    <div class="card">
+        <div class="card-header">
+            <strong>Create Category</strong>
+        </div>
+        <form asp-action="CreateCategory" method="POST">
+            <div asp-validation-summary="ModelOnly"></div>
+            <div class="card-body card-block">
+                <div class="form-group">
+                    <label for="Category" class=" form-control-label">Category Name</label>
+                    <input type="text" asp-for="CategoryName" id="Category" placeholder="Enter your Category name" class="form-control">
+                    <span asp-validation-for="CategoryName"></span>
+
+                </div>
+
+            </div>
+            <button type="submit" class="btn btn-success">Save</button>
+        </form>
+    </div>
+</div>

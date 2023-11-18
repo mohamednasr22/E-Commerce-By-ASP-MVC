@@ -1,0 +1,1575 @@
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Areas\Admin\Views\Category\CategoryList.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Areas\Admin\Views\Category\CreateCategory.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Areas\Admin\Views\Home\Index.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Areas\Admin\Views\Shared\_AdminLayout.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Areas\Admin\Views\Shared\_ViewImports.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Areas\Admin\Views\_ViewStart.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Views\Home\Index.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Views\Home\Privacy.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Views\Shared\Error.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Views\Shared\_Layout.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Views\Shared\_ValidationScriptsPartial.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Views\_ViewImports.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\Views\_ViewStart.cshtml
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\css\bootstrap-datetimepicker.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\css\font-face.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\css\theme.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-100.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-100.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-100.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-100.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-100.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-100italic.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-100italic.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-100italic.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-100italic.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-100italic.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-200.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-200.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-200.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-200.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-200.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-200italic.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-200italic.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-200italic.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-200italic.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-200italic.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-300.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-300.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-300.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-300.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-300.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-300italic.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-300italic.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-300italic.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-300italic.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-300italic.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-500.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-500.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-500.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-500.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-500.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-500italic.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-500italic.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-500italic.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-500italic.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-500italic.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-600.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-600.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-600.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-600.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-600.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-600italic.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-600italic.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-600italic.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-600italic.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-600italic.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-700.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-700.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-700.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-700.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-700.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-700italic.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-700italic.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-700italic.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-700italic.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-700italic.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-800.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-800.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-800.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-800.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-800.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-800italic.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-800italic.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-800italic.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-800italic.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-800italic.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-900.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-900.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-900.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-900.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-900.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-900italic.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-900italic.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-900italic.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-900italic.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-900italic.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-italic.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-italic.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-italic.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-italic.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-italic.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-regular.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-regular.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-regular.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-regular.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\fonts\poppins\poppins-v5-latin-regular.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\bg-title-01.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\bg-title-02.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\avatar-01.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\avatar-02.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\avatar-03.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\avatar-04.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\avatar-05.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\avatar-06.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\avatar-big-01.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\logo-blue.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\logo-mini.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\logo-white.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\logo.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\images\icon\Untitled-1.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\js\bootstrap-datetimepicker.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\js\main.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\js\moment.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\media\9606031aabebde32fa96edeff071a132.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\animsition\animsition.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\animsition\animsition.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\bootstrap-4.1\bootstrap.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\bootstrap-4.1\bootstrap.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\bootstrap-4.1\popper.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\bootstrap-progressbar\bootstrap-progressbar-3.3.4.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\bootstrap-progressbar\bootstrap-progressbar.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\chartjs\Chart.bundle.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\circle-progress\circle-progress.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\circle-progress\circle-progress.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\countdown\countdowntime.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\countdown\jquery.countdown.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\countdown\moment-timezone-with-data.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\countdown\moment-timezone.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\countdown\moment.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\counter-up\jquery.counterup.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\counter-up\jquery.waypoints.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\counter-up\waypoints.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\css-hamburgers\hamburgers.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\css-hamburgers\hamburgers.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-4.7\css\font-awesome.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-4.7\css\font-awesome.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-4.7\fonts\fontawesome-webfont.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-4.7\fonts\fontawesome-webfont.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-4.7\fonts\fontawesome-webfont.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-4.7\fonts\fontawesome-webfont.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-4.7\fonts\fontawesome-webfont.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-4.7\fonts\FontAwesome.otf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-4.7\HELP-US-OUT.txt
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\css\fontawesome-all.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-brands-400.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-brands-400.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-brands-400.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-brands-400.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-brands-400.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-regular-400.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-regular-400.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-regular-400.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-regular-400.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-regular-400.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-solid-900.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-solid-900.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-solid-900.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-solid-900.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\font-awesome-5\webfonts\fa-solid-900.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\CHANGELOG.txt
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\CONTRIBUTING.txt
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\fullcalendar.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\fullcalendar.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\fullcalendar.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\fullcalendar.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\fullcalendar.print.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\fullcalendar.print.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\gcal.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\gcal.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\lib\moment.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\LICENSE.txt
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale-all.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\af.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ar-dz.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ar-kw.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ar-ly.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ar-ma.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ar-sa.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ar-tn.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ar.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\be.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\bg.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\bs.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ca.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\cs.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\da.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\de-at.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\de-ch.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\de.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\el.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\en-au.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\en-ca.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\en-gb.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\en-ie.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\en-nz.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\es-do.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\es-us.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\es.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\et.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\eu.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\fa.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\fi.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\fr-ca.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\fr-ch.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\fr.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\gl.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\he.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\hi.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\hr.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\hu.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\id.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\is.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\it.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ja.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ka.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\kk.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ko.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\lb.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\lt.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\lv.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\mk.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ms-my.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ms.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\nb.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\nl-be.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\nl.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\nn.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\pl.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\pt-br.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\pt.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ro.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\ru.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\sk.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\sl.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\sq.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\sr-cyrl.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\sr.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\sv.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\th.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\tr.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\uk.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\vi.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\zh-cn.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\zh-hk.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\locale\zh-tw.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\fullcalendar-3.10.0\README.txt
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\jquery-3.2.1.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\jquery-ui.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\dist\css\lightbox.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\dist\images\close.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\dist\images\loading.gif
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\dist\images\next.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\dist\images\prev.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\dist\js\lightbox-plus-jquery.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\dist\js\lightbox-plus-jquery.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\dist\js\lightbox-plus-jquery.min.map
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\dist\js\lightbox.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\dist\js\lightbox.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\dist\js\lightbox.min.map
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\src\css\lightbox.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\src\images\close.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\src\images\loading.gif
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\src\images\next.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\src\images\prev.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\lightbox2\src\js\lightbox.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\mdi-font\css\material-design-iconic-font.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\mdi-font\css\material-design-iconic-font.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\mdi-font\fonts\Material-Design-Iconic-Font.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\mdi-font\fonts\Material-Design-Iconic-Font.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\mdi-font\fonts\Material-Design-Iconic-Font.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\mdi-font\fonts\Material-Design-Iconic-Font.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\mdi-font\fonts\Material-Design-Iconic-Font.woff2
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\perfect-scrollbar\perfect-scrollbar.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\perfect-scrollbar\perfect-scrollbar.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\perfect-scrollbar\perfect-scrollbar.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\progressbar\progressbar.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\progressbar\progressbar.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\select2\select2.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\select2\select2.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\ajax-loader.gif
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\config.rb
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\fonts\slick.eot
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\fonts\slick.svg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\fonts\slick.ttf
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\fonts\slick.woff
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\slick-theme.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\slick-theme.less
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\slick-theme.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\slick.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\slick.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\slick.less
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\slick.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\slick\slick.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\smk-accordion\accordion.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\smk-accordion\accordion.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\smk-accordion\accordion.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\sweetalert\sweetalert.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\vector-map\jquery.vmap.brazil.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\vector-map\jquery.vmap.europe.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\vector-map\jquery.vmap.france.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\vector-map\jquery.vmap.germany.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\vector-map\jquery.vmap.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\vector-map\jquery.vmap.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\vector-map\jquery.vmap.russia.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\vector-map\jquery.vmap.sampledata.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\vector-map\jquery.vmap.usa.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\vector-map\jquery.vmap.world.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\vector-map\jqvmap.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\wow\animate.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\Admin\vendor\wow\wow.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\css\bootstrap-grid.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\css\bootstrap-grid.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\css\bootstrap-reboot.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\css\bootstrap-reboot.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\css\bootstrap.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\css\bootstrap.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\css\style.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\css\style.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\carousel-1.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\carousel-2.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\carousel-3.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\cat-1.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\cat-2.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\cat-3.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\cat-4.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\offer-1.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\offer-2.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\payments.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\product-1.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\product-2.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\product-3.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\product-4.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\product-5.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\product-6.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\product-7.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\product-8.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\product-9.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\user.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\vendor-1.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\vendor-2.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\vendor-3.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\vendor-4.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\vendor-5.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\vendor-6.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\vendor-7.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\img\vendor-8.jpg
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\js\main.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\animate\animate.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\easing\easing.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\easing\easing.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\owlcarousel\assets\ajax-loader.gif
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\owlcarousel\assets\owl.carousel.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\owlcarousel\assets\owl.carousel.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\owlcarousel\assets\owl.theme.default.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\owlcarousel\assets\owl.theme.default.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\owlcarousel\assets\owl.theme.green.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\owlcarousel\assets\owl.theme.green.min.css
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\owlcarousel\assets\owl.video.play.png
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\owlcarousel\LICENSE
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\owlcarousel\owl.carousel.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\lib\owlcarousel\owl.carousel.min.js
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\bootstrap-grid.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\bootstrap-reboot.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\bootstrap.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_alert.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_background-variant.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_badge.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_border-radius.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_box-shadow.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_breakpoints.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_buttons.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_caret.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_clearfix.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_deprecate.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_float.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_forms.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_gradients.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_grid-framework.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_grid.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_hover.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_image.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_list-group.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_lists.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_nav-divider.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_pagination.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_reset-text.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_resize.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_screen-reader.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_size.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_table-row.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_text-emphasis.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_text-hide.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_text-truncate.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_transition.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\mixins\_visibility.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_align.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_background.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_borders.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_clearfix.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_display.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_embed.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_flex.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_float.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_interactions.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_overflow.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_position.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_screenreaders.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_shadows.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_sizing.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_spacing.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_stretched-link.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_text.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\utilities\_visibility.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\vendor\_rfs.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_alert.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_badge.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_breadcrumb.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_button-group.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_buttons.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_card.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_carousel.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_close.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_code.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_custom-forms.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_dropdown.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_forms.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_functions.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_grid.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_images.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_input-group.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_jumbotron.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_list-group.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_media.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_mixins.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_modal.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_nav.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_navbar.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_pagination.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_popover.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_print.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_progress.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_reboot.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_root.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_spinners.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_tables.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_toasts.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_tooltip.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_transitions.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_type.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_utilities.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\bootstrap\scss\_variables.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\wwwroot\scss\style.scss
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\appsettings.Development.json
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\appsettings.json
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce\ECommerce.staticwebassets.runtime.json
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\appsettings.Development.json
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\appsettings.json
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.staticwebassets.runtime.json
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.exe
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.deps.json
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.runtimeconfig.json
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.pdb
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\mscorlib.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\netstandard.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Collections.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Console.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Core.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Data.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Linq.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Memory.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Threading.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Web.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Windows.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Xml.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Humanizer.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\MessagePack.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.Build.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\NToastNotify.Views.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\NToastNotify.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\NuGet.Common.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.Diagnostics.Eventing.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.Fonts.Fluent.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.Foundation.Logging.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.Foundation.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.UI.Composition.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.UI.Dispatching.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.UI.FluentTheme.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.UI.FluentTheme.v1.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.UI.FluentTheme.v2.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.UI.Toolkit.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.UI.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.Xaml.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\Uno.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\dot net core\ECommerce\ECommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.csproj.AssemblyReference.cache
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.AssemblyInfoInputs.cache
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.AssemblyInfo.cs
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.csproj.CoreCompileInputs.cache
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.RazorAssemblyInfo.cache
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.RazorAssemblyInfo.cs
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\staticwebassets\msbuild.ECommerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\staticwebassets\msbuild.build.ECommerce.props
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ECommerce.props
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ECommerce.props
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\staticwebassets.pack.json
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\staticwebassets.build.json
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\staticwebassets.development.json
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\scopedcss\bundle\ECommerce.styles.css
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\scopedcss\projectbundle\ECommerce.bundle.scp.css
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.csproj.CopyComplete
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.dll
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\refint\ECommerce.dll
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.pdb
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.genruntimeconfig.cache
+D:\projects\dot net core\ECommerce\ECommerce\obj\Debug\net6.0\ref\ECommerce.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\appsettings.json
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ECommerce.staticwebassets.runtime.json
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ECommerce.exe
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ECommerce.deps.json
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ECommerce.runtimeconfig.json
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ECommerce.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ECommerce.pdb
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\MessagePack.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\NToastNotify.Views.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\NToastNotify.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.csproj.AssemblyReference.cache
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.AssemblyInfoInputs.cache
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.AssemblyInfo.cs
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.RazorAssemblyInfo.cache
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.RazorAssemblyInfo.cs
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\staticwebassets\msbuild.ECommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\staticwebassets\msbuild.build.ECommerce.props
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ECommerce.props
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ECommerce.props
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\scopedcss\bundle\ECommerce.styles.css
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\scopedcss\projectbundle\ECommerce.bundle.scp.css
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.csproj.CopyComplete
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\refint\ECommerce.dll
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.pdb
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ECommerce.genruntimeconfig.cache
+C:\Users\mnasr\Downloads\E-Commerce-By-ASP-MVC-main\ECommerce\obj\Debug\net6.0\ref\ECommerce.dll
